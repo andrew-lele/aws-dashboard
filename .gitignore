@@ -1,0 +1,6 @@
+#any text file
+*.txt
+*.csv
+
+#json files for making sure im not giving away data i shouldn't be
+*.json
